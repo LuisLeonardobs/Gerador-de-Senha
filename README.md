@@ -14,4 +14,9 @@ Aplicativo simples feito em Python com Tkinter para gerar senhas fortes e segura
 pip install -r requirements.txt
 python main.py
 ```
-![Demonstração do Gerador de Senha](./assets/img/gif_gereador_de_senha.gifgerador-de-senha.gif)
+---
+
+## 🎥 Demonstração
+
+![Demonstração do Gerador de Senha](./gerador-de-senha.gif)
+
